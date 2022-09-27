@@ -22,9 +22,9 @@ const Footer = ({}) => {
           </div>
         </div>
       </div>*/}
-      <div class="relative py-4">
-      <div class="absolute inset-0 flex items-center">
-        <div class="w-full border-b border-gray-300"></div>
+      <div className="relative py-4">
+      <div className="absolute inset-0 flex items-center">
+        <div className="w-full border-b border-gray-300"></div>
         </div>
       </div>
       <div className="mt-10">
