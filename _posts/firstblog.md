@@ -8,52 +8,16 @@ image: >-
   images/blog/football.jpg
 ---
 
-# Heading One
+# Why
 
-**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Exactly one year ago I decided to re-start playing footbal after almost 3 years of inactivity. Differently from the past, I opted for seven-a-side soccer. In this style of soccer ball mastery, which is something I never lacked but never mastered fully, becomes one of the aspects you need mostly to care about. Moreover, after 3 full years of football inactivity my weak foot, the left one, has become quite awful. On top of that, some of my teammates pointed out the fact that I tend to play too much on my own. As a icing on the cacke, my worst weakness was the finalization, in which I have always been terrible. That's why I played as a full back. On this past August and September I decided to start a journey to my weaknesses, here's what happend.
 
-## This is Heading Two
+## Ball Mastery
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+Ball mastery refers to the ability of a player to master the ball in tight spaces with high frequency touches; the more your head is up, the better for your understanding of the game. Generally speaking, as a football player I never had to worry about my technique, that was discrete. I was not very tall and always relied more on my techical abilities that my muscles. However, after a long period of inactivity I needed to reinforce my abilities. For this reason I planned to do various exercises. For this purpose I searched on youtube various ball mastery drills and did them **every single day**. In less than 3 weeks I gained the same abilities I left 3 years ago, and I think they even improved further. Aside from ball mastery drills, juggling with a wall or alone with different kind of drills was a fantastic tool, that further improve my ball control and awareness. After my 3 weeks of improvements I started doing the drills with my head up most of the times, and noticed that also my in game performance improved. Not needing to care about the ball, because I mastered the touch, helped my scanning the pitch more and more, and find my teammatest and more connections with them.
 
-### This is Heading Three
+## The weak foot
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+After three long years of inactivity my weak foot was left in the dust. I thought I had to restart by the basic drills but I was wrong. The situation was even worse. The main problem I noticed in the first days of working with my weak foot was the posture. Juggling or controlling the ball felt unnatural not only for my lack of sensibility on the foot, but also beacuse my posture when using the left foot was completely messed up. For this reason I started doing some postural drills, both with the ball and without it. After a month of not always consistent practing my posture was somewhat acceptable. From here I started working on my feet sensibility, doing ball mastery drills, simple juggling and very basic stuff. Kicking was another aspect in which the posture didn't help. Besides the annoying part of finding a place where I could freely kick in my awesome town, I started practicing with simple drills to build strength in my leg and inguinal muscles, which hurted a lot. I decided to concentrate my self in tewo
 
-#### This is Heading Four With Code Block
-
-```jsx
-<code className={className} {...props}>
-  {children}
-</code>
-```
-
-## BLockquote
-
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-## Ordered List with horizontal line
-
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
-
----
-
-## Unordered List With Horizontal line
-
-- First item
-- Second item
-- Third item
-- Fourth item
-
----
-
-## Links
-
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
-
-## Images
-
-![An old rock in the desert](https://images.unsplash.com/photo-1654475677192-2d869348bb4c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+## Finalization
