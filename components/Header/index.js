@@ -11,14 +11,14 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
   const { theme, setTheme } = useTheme();
   const [mounted, setMounted] = useState(false);
 
-  const { name, showBlog, showResume } = data;
+  const { showBlog } = data;
 
   useEffect(() => {
     setMounted(true);
   }, []);
 
   return (
-    <>
+    <div className="bg-white sticky top-0 z-50 w-full">
       <Popover className="block tablet:hidden mt-5">
         {({ open }) => (
           <>
@@ -152,7 +152,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
           </div>
         )}
       </div>
-    </>
+    </div>
   );
 };
 
