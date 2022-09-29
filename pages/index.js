@@ -64,7 +64,7 @@ export default function Home() {
           handleAboutScroll={handleAboutScroll}
         />
         <div className="laptop:mt-20 mt-10">
-          <div className="mt-5">
+          <div className="mt-5" stlyle="height: 100vh;">
             <h1
               ref={textOne}
               className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl p-1 tablet:p-2 text-bold w-4/5 mob:w-full laptop:w-4/5"
@@ -79,22 +79,14 @@ export default function Home() {
             </h1>
             <h1
               ref={textThree}
-              className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl p-1 tablet:p-2 text-bold w-full laptop:w-4/5"
+              className="opacity-40 text-2xl tablet:text-2xl p-1 tablet:p-2 w-full laptop:w-4/5"
             >
               {data.headerTaglineThree}
-            </h1>
-            <h1
-              ref={textFour}
-              className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl p-1 tablet:p-2 text-bold w-full laptop:w-4/5"
-            >
-              {data.headerTaglineFour}
             </h1>
           </div>
 
 
-        <div className="mt-10 laptop:mt-40 p-2 laptop:p-0" ref={aboutRef}>
-          <h1 className="tablet:m-10 text-2xl text-bold">About me</h1>
-          <p className="tablet:m-10 mt-2 text-xl laptop:text-3xl w-full laptop:w-3/5">
+        <div className="mt-10 laptop:mt-40 laptop:p-0" ref={aboutRef}>
           <h1 className="text-4xl text-bold">About me</h1>
           <p className="text-justify mt-2 text-xl laptop:text-xl w-full laptop:w-3/5 text-bold">
             {data.aboutpara}
@@ -102,8 +94,8 @@ export default function Home() {
         </div>
 
         <div className="mt-10 laptop:mt-30 p-2 laptop:p-0">
-          <h1 className="tablet:m-10 text-2xl text-bold">My Competences</h1>
-          <div className="mt-5 tablet:m-10 grid grid-cols-1 laptop:grid-cols-2 gap-6">
+          <h1 className="text-4xl text-bold">My Competences</h1>
+          <div className="mt-5 grid grid-cols-1 laptop:grid-cols-2 gap-6">
             {data.services.map((service, index) => (
               <ServiceCard
                 key={index}
@@ -116,7 +108,7 @@ export default function Home() {
 
         </div>
           <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
-            <h1 className="tablet:m-10 text-2xl text-bold">My Work</h1>
+            <h1 className="text-4xl text-bold">My Work</h1>
 
             <div className="mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-2 gap-4">
               {data.projects.map((project) => (
