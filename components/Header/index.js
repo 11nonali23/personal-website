@@ -18,7 +18,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
   }, []);
 
   return (
-    <div className="bg-white sticky top-0 z-50 w-full">
+    <div className={`sticky top-0 z-50 w-full ${theme === "light" ? "bg-white" : ""}`}>
       <Popover className="block tablet:hidden mt-5">
         {({ open }) => (
           <>
