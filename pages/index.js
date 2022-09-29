@@ -54,6 +54,7 @@ export default function Home() {
       <Head>
         <title>{data.name}</title>
       </Head>
+      <div className="gradient-circle"></div>
       
       <Header
           handleWorkScroll={handleWorkScroll}
@@ -83,7 +84,7 @@ export default function Home() {
             </h1>
 
 
-          <div className="mt-20 laptop:mt-40 laptop:p-0" ref={aboutRef}>
+          <div className="mt-48 laptop:mt-48 laptop:p-0" ref={aboutRef}>
             <h1 className="text-4xl text-bold">About me</h1>
             <p className="text-justify mt-2 text-xl laptop:text-xl w-full laptop:w-3/5 text-bold">
               {data.aboutpara}
@@ -91,7 +92,7 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="mt-40 laptop:mt-40 p-2 laptop:p-0">
+        <div className="mt-48 laptop:mt-48 p-2 laptop:p-0">
           <h1 className="text-4xl text-bold">My Competences</h1>
           <div className="mt-5 grid grid-cols-1 laptop:grid-cols-2 gap-6">
             {data.services.map((service, index) => (
@@ -105,7 +106,7 @@ export default function Home() {
         </div>
 
         </div>
-          <div className="mt-10 laptop:mt-30 p-2 laptop:p-0" ref={workRef}>
+          <div className="mt-14 laptop:mt-36 p-2 laptop:p-0" ref={workRef}>
             <h1 className="text-4xl text-bold">My Work</h1>
 
             <div className="mt-5 laptop:mt-10 grid grid-cols-1 tablet:grid-cols-2 gap-4">
