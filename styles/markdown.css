@@ -1,9 +1,5 @@
 /* Markdown Styling */
 
-* {
-  font-family: "Times New Roman", Times, serif;
-}
-
 /* Markdown Container */
 
 .markdown-class {
@@ -13,7 +9,7 @@
 /* Headings */
 
 .markdown-class h1 {
-  @apply mt-5 text-3xl;
+  @apply mt-5 text-4xl;
 }
 .markdown-class h2 {
   @apply mt-5 text-2xl;
@@ -36,7 +32,7 @@
 }
 
 .markdown-class p {
-  @apply mt-2 opacity-80 leading-7 font-normal text-base;
+  @apply mt-2 opacity-80 leading-7 font-normal text-lg;
 }
 
 .markdown-class strong {
