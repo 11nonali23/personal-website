@@ -22,7 +22,7 @@ As I said in my first blog post, for this season my match reviews are essentiall
 - _Offensive concretization_ : 2
 - _Technical Performance_: 6
 
-My final grade for the match is ~5.7. In case you are wondering, this is not the plain average, which is 6, but a weighted one. The weights are introduced to reduce the importance of the technical performance, which is something that I care but that does not necessarily affect the impact I have on the game. Because, as I said multiple times, technical excellence is not important if it does not directly help the performance of the team and possibly the outcomes. For this reason every parameters weighs .225, while techincal performance weighs .1. The overall rating is aligned with how I intuitively rated the game: I showed good things but the impact on the game was defintely not sufficient, given the potential influence I could have given during the match.
+My final grade for the match is ~5.7. This is not the plain average, which is 6, but a weighted one. The weights are introduced to reduce the importance of the technical performance, which is something that I care but that does not necessarily affect the impact I have on the game. Because, as I said multiple times, technical excellence is not important if it does not directly help the performance of the team and possibly the outcomes. For this reason every parameters weighs .225, while techincal performance weighs .1. The overall rating is aligned with how I intuitively rated the game: I showed good things but the impact on the game was defintely not sufficient, given the potential influence I could have given during the match.
 
 ### Game attitude
 

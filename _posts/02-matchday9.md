@@ -18,7 +18,7 @@ For this season my match reviews are essentially based on the parameters I outli
 - _Offensive concretization_ : 8
 - _Technical Performance_: 9
 
-The final grade is 8.1. In case you are wondering, this is not the plain average but a weighted one. The weights are introduced to reduce the importance of the technical performance, which is something that I care but that does not necessarily affect the impact I have on the game. For this reason every parameter weighs .225, while techincal performance weighs .1. Even this time the overall rating is aligned with how I intuitively rated the game: I had a solid rock performance, in which I provided for my team scoring two clutch goals (2-2 and the 7-6) and I made three assists for my teammates (3-2, 4-2). I run a lot and helped my team defensively being essentialy an extra defender, even though the first goal was entirely my mistake, since I lost the ball during a dribbling.
+The final grade is 8.1. This is not the plain average but a weighted one. The weights are introduced to reduce the importance of the technical performance, which is something that I care but that does not necessarily affect the impact I have on the game. For this reason every parameter weighs .225, while techincal performance weighs .1. Even this time the overall rating is aligned with how I intuitively rated the game: I had a solid rock performance, in which I provided for my team scoring two clutch goals (2-2 and the 7-6) and I made three assists for my teammates (3-2, 4-2). I run a lot and helped my team defensively being essentialy an extra defender, even though the first goal was entirely my mistake, since I lost the ball during a dribbling.
 
 ### Game attitude
 
