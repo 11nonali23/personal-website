@@ -6,11 +6,15 @@ preview: The first game of 2023
 image: /images/blog/8th-match.jpg
 ---
 
-On 28 January 2023 me and my team had the first match of the second half of the season and the first official match of 2023. This match felt very important for our team, to recover a season that started with poor results and commitment despite our high ambitions. As for my self, this was the first match in which I fully recovered physically after my surgery. Performing well in this match meant a lot for me, because I had to rebuild confidence in my self and from my team mates.
+On 28 January 2023 me and my team had the first match of the second half of the season and the first official match of 2023. This match felt very important for our team, to recover a season that started with poor results and very low commitment, despite our high ambitions. As for myself, this was the first match in which I fully recovered physically after my surgery. Performing well meant a lot for me, because I had to rebuild confidence in myself and regain trust from my teammates.
 
-# Game analysis
+# Recap
 
-For this season my match reviews are essentially based on the parameters I outlined in my first blog post.
+The final result of this game is a win 9-6 for Lisanza. As always, when we play in our home pitch the game is always open and a lot of goals are scored. In fact, Lisanza's home pitch is a very short synthetic grass pitch, in which the game flow is much more like a futsal one. Our opponents had a very good striker and a solid midfield. During the first ten minutes of the game we were down 2-0, and the pressure from Morazzone's midfield was very high. After a sloppy start we recovered well by playing nice football and we overwhelmed the opponents with our technique and experience. Thanks to our efforts we started the second half with a 4-3 result. The second half went crazy with a lot of incredible goals, but in the last minutes we went +3 and our opponents lost hope.
+
+# Individual game analysis
+
+Remember that for this season my match reviews are essentially based on the parameters I outlined in my first blog post.
 
 - _Game attitude_ : 7
 - _Interaction with teammates_ : 8
@@ -18,11 +22,11 @@ For this season my match reviews are essentially based on the parameters I outli
 - _Offensive concretization_ : 8
 - _Technical Performance_: 9
 
-The final grade is 7.8. This is not the plain average but a weighted one. The weights are introduced to reduce the importance of the technical performance, which is something that I care but that does not necessarily affect the impact I have on the game. For this reason every parameter weighs .225, while techincal performance weighs .1. Even this time the overall rating is aligned with how I intuitively rated the game: I had a solid rock performance, in which I provided for my team scoring two clutch goals (2-2 and the 7-6) and I made three assists for my teammates (3-2, 4-2). I run a lot and helped my team defensively being essentialy an extra defender, even though the first goal was entirely my mistake, since I lost the ball during a dribbling.
+The final grade is 7.8. This is not the plain average but a weighted one. The weights are introduced to reduce the importance of the technical performance, which is something that I care but that does not necessarily affect the impact I have on the game. For this reason every parameter weighs .225, while techincal performance weighs .1. Even this time the overall rating is aligned with how I intuitively rated the game: I had a solid rock performance, in which I provided for my team scoring two important goals (1-2 and the 7-6) and I made two assists for my teammates (3-2, 4-2). I run a lot and helped my team defensively being essentialy an extra defender, even though the first goal was entirely my mistake, since I lost the ball during a dribbling.
 
 ### Game attitude
 
-Another time, one aspect that surpised during this match was my attitude towards the game, but in a different way from the previous match. If I have to find a sentence for my attidute during this match I'd say "a bit too much". Maybe it was the fact that I've stayed away from the football pitch for too much time, or my will to regain confidence, but my behaviour during the game was very rude and gritty, pretty unconvenitonal for a very relaxed and fluffy person like me. I think I am changing a lot during this period. Nevertheless, I did a good job in channeling all my feelings into drive to play with focus and a positive attitude. Moreover, this gritty attitude I applied helped me in winning most of the physical duels and tackles, that sometimes were very rude, in fact I also took a yellow card. Ultimately, I think that sometimes being a bit more rude if used with the correct approach can lead to positive results as happened today.
+Another time, one aspect that surpised during this match was my attitude towards the game, but in a different way from the previous match. If I have to find a sentence for my attidute during this match I'd say "a bit too much". Maybe it was the fact that I've stayed away from the football pitch for too much time, or my will to regain confidence, but my behaviour during the game was very rude and gritty, pretty unconvenitonal for a fair and relaxed player like me. Nevertheless, I did a good job in channeling all my feelings into drive to play with focus and a positive attitude. Moreover, this gritty attitude I applied helped me in winning most of the physical duels and tackles, that sometimes were very rude, in fact I also took a yellow card. In the first minutes of the game I made a mistake that led to a goal for our opponents, but I didn't lose the head and played with the correct focus, recovering from my mistakes. Ultimately, I think that sometimes being a bit more rude if used with the correct approach can lead to positive results as happened today.
 
 ### Interaction with teammates
 
@@ -42,4 +46,4 @@ Shooting, dribbling, crossing, first touch, weak foot, taking position with the 
 
 # Final round
 
-Finally a game in which I didn't simply played well but provided for my team with a good conversion rate of my chances. Honestly during this game I had so much fun beacuse the opponents were good, especially offensively, and we were able to win only in the late minutes of the second half, after I scored the 7-6 goal. I am very happy that my team is recovering from a very dark period and I hope that we can keep some consistency on our results. Let's go Lisanza 🐸!
+Finally a game in which I didn't simply played well but provided for my team with a good conversion rate of my chances. Honestly during this game I had so much fun beacuse the opponents were good, especially offensively, and we were able to win only in the late minutes of the second half, after I scored the 7-6 goal. The improvement goals that I set on the previous blog post were definetely met. My focus and composure in front of the keeper was nice, especially on my second goal which was very heavy. However, unfortunately I wasn't able to practice for lack of free time, and I will try to do so in the next week. For the next game I am looking to improve my game attitude, trying to be as rude as needed but without overdoing and taking yellow cards, and focusing instead more on supporting my teammates and communicating with them particularly in the defensive phase. I am very happy that my team is recovering from a very dark period and I hope that we can keep some consistency on our results. Let's go Lisanza 🐸!
