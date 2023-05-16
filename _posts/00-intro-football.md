@@ -40,7 +40,3 @@ Skill wise I am above average in the amateur championship I am playing on (it's 
 - Improve my technical ability, playing more cleanly and by engaging more my weak foot
 
 Essentially I want to be a more mature and impactful player, applying the principles I learned during my work experience as a software developer for my football team.
-
-## Analize Games
-
-I will post a game analysis after every match, reviewing my performance. This will help me keeping track of my progress and stay focused on my goals.

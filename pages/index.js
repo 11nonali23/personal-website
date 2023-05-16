@@ -84,7 +84,7 @@ export default function Home() {
             </h1>
 
 
-          <div className="mt-48 laptop:mt-48 laptop:p-0" ref={aboutRef}>
+          <div className="mt-24 laptop:mt-24 mob:mt-12 laptop:p-0" ref={aboutRef}>
             <h1 className="text-4xl text-bold">About me</h1>
             <p className="text-justify mt-2 text-xl laptop:text-xl w-full laptop:w-3/5 text-bold">
               {data.aboutpara}

@@ -1,8 +1,8 @@
 {
     "name":"Andrea",
-    "headerTaglineOne":"Hi 👋",
+    "headerTaglineOne":"Hello World 👋",
     "headerTaglineTwo":"I'm Andrea Nonali",
-    "headerTaglineThree":"MsC Student in Computer Science",
+    "headerTaglineThree":"Software Engineer",
     "showBlog":true,
     "darkMode":true,
     "showResume":true,
@@ -99,9 +99,7 @@
           "description":"During my Master's I took various AI classes and sharpened my skills in this field. I did various projects from recommender sytems using machine learning techniques like KNN to classifiers using Tensorflow deep learning models."
        }
     ],
-    "aboutpara":"I'm a M.Sc student of computer science at the University of Insubria, Varese. During my Bachelor's degree I fell in love with web and mobile development, and my efforts in this field were rewarded by finding a part-time job as a full-stack Agile web developer that I carried on during my studies. On my Master's degree I deepened topics about machine learning, privacy, cryptography and blockchain, with which I am doing my thesis.",
-    
-    
+    "aboutpara":"I'm a software engineer for Satispay, a famous Italian company in the fintech industry. I graduated in computer science at the University of Insubria, Varese. Over the course of my studies, I had the opportunity to deepen with great passion all the topics related to computer science and programming. During my bachelor's degree, I fell in love with functional programming, web and mobile development, and my efforts in this field were rewarded by finding a part-time job as a full-stack web developer that I carried on during my studies. During my Master's degree, I deepened topics about cloud computing, machine learning, privacy, cryptography and blockchain, with which I developed my thesis. If you get to know me, you'll discover a genuine, fair, funny and clumsy person who loves to enjoy little things.",
     "resume":{
        "tagline":"👋  I'm MsC student in Computer Science",
        "description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",

@@ -29,13 +29,7 @@ const Footer = ({}) => {
       </div>
       <div className="mt-10">
               <Socials />
-            </div>
-      <h1 className="text-sm text-bold mt-2 laptop:mt-10 p-2 laptop:p-0">
-        Forked with ❤ from{" "}
-        <Link href="http://www.chetanverma.com">
-          <a className="underline underline-offset-1">Chetan Verma</a>
-        </Link>
-      </h1>
+        </div>  
     </>
   );
 };
